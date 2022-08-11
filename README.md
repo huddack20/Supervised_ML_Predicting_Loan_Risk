@@ -6,6 +6,8 @@ In this assignment, three machine learning models attempts to predict whether a 
 
 Confusion matrix was used to define the performance of classification algorithms. 
 
+![Confusion Matrix](Images/confusionmatrix.png)
+
 ## Background
 
 Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market. This data will be used to 
