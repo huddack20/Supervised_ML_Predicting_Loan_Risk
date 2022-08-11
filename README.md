@@ -2,7 +2,9 @@
 
 # Logistic Regression, Random Forest, Support Vector Machine
 
-In this assignment, you will be building a machine learning model that attempts to predict whether a loan will be approved or not. 
+In this assignment, three machine learning models attempts to predict whether a loan will be approved or not.
+
+Confusion matrix was used to define the performance of classification algorithms. 
 
 ## Background
 
