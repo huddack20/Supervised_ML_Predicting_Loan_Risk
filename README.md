@@ -1,5 +1,7 @@
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
+# Logistic Regression, Random Forest, Support Vector Machine
+
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan will be approved or not. 
 
 ## Background
