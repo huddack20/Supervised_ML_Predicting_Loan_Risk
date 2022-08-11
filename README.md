@@ -4,7 +4,7 @@
 
 In this assignment, three machine learning models attempts to predict whether a loan will be approved or not.
 
-Confusion matrix was used to define the performance of classification algorithms. 
+# Confusion matrix was used to define the performance of classification algorithms. 
 
 ![Confusion Matrix](Images/confusionmatrix.png)
 
